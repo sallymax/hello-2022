@@ -1,5 +1,5 @@
 # Pull base image 
-From tomcat:8-jre11 
+From tomcat:8-jre8 
 
 # Maintainer 
 MAINTAINER "K-TechService" 
