@@ -5,7 +5,7 @@ pipeline {
   }
   environment {
      registry = "sallymax/devops_pipeline"
-     registryCredential = 'newserver'
+     registryCredential = 'DockerID'
   }
   stages {
     stage('Build'){
